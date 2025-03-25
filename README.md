@@ -10,6 +10,7 @@ Nairobi, Kenya
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GregoDs)  
 
 ---
+![Snake animation](https://github.com/GregoDs/snk/blob/output/dist/snake.svg)
 
 ## 👨‍💻 About Me
 
