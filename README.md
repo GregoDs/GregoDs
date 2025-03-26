@@ -1,4 +1,4 @@
-# Hi there, I'm Gregory Kago! 👋
+# Hi there,  I'm Gregory Kago! 👋
 
 **Mobile Engineer | Software Developer | ML Engineer**  
 Nairobi, Kenya  
