@@ -31,25 +31,6 @@ I'm a Mobile Engineer with over **2 years of experience** in developing robust m
 
 ---
 
-## 🔍 Notable Projects
-
-### 📚 AI-Powered E-Learning App (In Development)
-- **Tech Stack:** Flutter, Spring Boot, Azure, Docker  
-- **Description:** Developing a personalized e-learning platform that uses machine learning algorithms to recommend tailored learning paths for users. The goal is to enhance user engagement and improve learning outcomes by adapting content to individual needs.  
-- **Potential Market Impact:** Addresses the growing demand for personalized education solutions, potentially increasing retention rates and user satisfaction in the e-learning sector.  
-
-### 📦 Asset Management App (In Development)
-- **Tech Stack:** Java, Spring Boot, PostgreSQL, Docker  
-- **Description:** Building a real-time asset tracking system utilizing RFID technology for accurate and efficient monitoring of assets. The application aims to provide businesses with reliable data on asset locations and statuses.  
-- **Potential Market Impact:** Helps organizations reduce asset loss, improve inventory management, and streamline operations, making it valuable for industries like logistics, healthcare, and manufacturing.  
-
-### ✅ Task Management App (In Development)
-- **Tech Stack:** Spring Boot, Flutter, Azure DevOps  
-- **Description:** Creating a task management tool that facilitates collaboration across teams, enabling efficient workflow management and project tracking. Features include task assignment, progress tracking, and automated notifications.  
-- **Potential Market Impact:** Enhances productivity and coordination within teams, making it suitable for startups, remote teams, and enterprises looking to optimize their project management processes.  
-
----
-
 ## 🌱 What I’m Learning
 
 - **Advanced AI/ML Integrations:** Exploring ways to incorporate machine learning models into mobile applications for enhanced functionality.  
